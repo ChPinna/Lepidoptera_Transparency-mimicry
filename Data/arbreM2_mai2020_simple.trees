@@ -1,0 +1,137 @@
+#NEXUS
+[R-package APE, Mon May 04 19:49:52 2020]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 62;
+	TAXLABELS
+		11_1002_GEO1
+		11_1065_MOTH2
+		11_1116_ITHOFLO
+		11_1127_ITHOFLO
+		11_1879_GEO3
+		Callithomia_lenea_zelie
+		Eresia_nauplius_plagiata
+		Godyris_hewitsoni
+		Godyris_panthyale_panthyale
+		Hagnagora_mortipax
+		Heterosais_nephele_nephele
+		Hyalenna_paradoxa_praestigiosa
+		Hypomenitis_enigma
+		Hypomenitis_lydia
+		Hypomenitis_oneidodes
+		Hypomenitis_ortygia_ortygia
+		Hypomenitis_theudelinda_zalmunna
+		Ithomia_agnosia_agnosia
+		Ithomia_amarilla
+		Ithomia_avella
+		LS11_2240_DISTH
+		LS11_2414_ERES1
+		Lycorea_ilione
+		ME15_88_DYSSSP1
+		ME16_100_GEO2
+		ME16_105_GEO1
+		ME16_15_METASP1
+		ME16_56_ERESCLI
+		ME16_58_HYPOSTR
+		ME16_62_ITAPAND
+		ME16_63_NOTOTIR
+		ME16_67_HYALEGE
+		ME16_92_GEO4
+		MECN_133_BUT1
+		MECN_140_PIER1
+		Mcclungia_cymo
+		Megoleria_orestilla
+		Methona_curvifascia
+		Napeogenes_harbona
+		Napeogenes_inachia
+		Napeogenes_larilla
+		Napeogenes_sylphis_corena
+		Oleria_athalina_banjana
+		Oleria_olerioides
+		Oleria_onega
+		Oleria_sexmaculata_sexmaculata
+		Parides_iphidamas
+		Patia_orise
+		Pseudoscada_florula_aureola
+		Pseudoscada_timna_utilla
+		Pteronymia_oneida_oneida
+		TR17_11_GEO8
+		TR17_12_GEO7
+		TR17_14_DISMTHEU
+		TR17_16_GEO9
+		TR17_17_HYALGRA
+		TR17_1_GEO11
+		TR17_3_MOSCPINT
+		TR17_5_STALEUT
+		TR17_6_DISMTHEU
+		TR17_7_MOTH1
+		Veladyris_pardalis
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	11_1002_GEO1,
+		2	11_1065_MOTH2,
+		3	11_1116_ITHOFLO,
+		4	11_1127_ITHOFLO,
+		5	11_1879_GEO3,
+		6	Callithomia_lenea_zelie,
+		7	Eresia_nauplius_plagiata,
+		8	Godyris_hewitsoni,
+		9	Godyris_panthyale_panthyale,
+		10	Hagnagora_mortipax,
+		11	Heterosais_nephele_nephele,
+		12	Hyalenna_paradoxa_praestigiosa,
+		13	Hypomenitis_enigma,
+		14	Hypomenitis_lydia,
+		15	Hypomenitis_oneidodes,
+		16	Hypomenitis_ortygia_ortygia,
+		17	Hypomenitis_theudelinda_zalmunna,
+		18	Ithomia_agnosia_agnosia,
+		19	Ithomia_amarilla,
+		20	Ithomia_avella,
+		21	LS11_2240_DISTH,
+		22	LS11_2414_ERES1,
+		23	Lycorea_ilione,
+		24	ME15_88_DYSSSP1,
+		25	ME16_100_GEO2,
+		26	ME16_105_GEO1,
+		27	ME16_15_METASP1,
+		28	ME16_56_ERESCLI,
+		29	ME16_58_HYPOSTR,
+		30	ME16_62_ITAPAND,
+		31	ME16_63_NOTOTIR,
+		32	ME16_67_HYALEGE,
+		33	ME16_92_GEO4,
+		34	MECN_133_BUT1,
+		35	MECN_140_PIER1,
+		36	Mcclungia_cymo,
+		37	Megoleria_orestilla,
+		38	Methona_curvifascia,
+		39	Napeogenes_harbona,
+		40	Napeogenes_inachia,
+		41	Napeogenes_larilla,
+		42	Napeogenes_sylphis_corena,
+		43	Oleria_athalina_banjana,
+		44	Oleria_olerioides,
+		45	Oleria_onega,
+		46	Oleria_sexmaculata_sexmaculata,
+		47	Parides_iphidamas,
+		48	Patia_orise,
+		49	Pseudoscada_florula_aureola,
+		50	Pseudoscada_timna_utilla,
+		51	Pteronymia_oneida_oneida,
+		52	TR17_11_GEO8,
+		53	TR17_12_GEO7,
+		54	TR17_14_DISMTHEU,
+		55	TR17_16_GEO9,
+		56	TR17_17_HYALGRA,
+		57	TR17_1_GEO11,
+		58	TR17_3_MOSCPINT,
+		59	TR17_5_STALEUT,
+		60	TR17_6_DISMTHEU,
+		61	TR17_7_MOTH1,
+		62	Veladyris_pardalis
+	;
+	TREE * UNTITLED = [&R] (((((((29:31.86360895,(24:15.75779936,2:15.75779936):16.10580958):2.17814896,(61:27.28112753,31:27.28112753):6.760630376):5.926766836,27:39.96852474):2.539849998,(32:15.25081103,56:15.25081103):27.25756371):36.70022443,(57:33.22037123,33:33.22037123):45.98822795):8.838130415,(26:70.49366388,(((1:13.46361524,25:13.46361524):32.32381675,5:45.78743199):14.77046119,(10:19.58572353,55:19.58572353):40.97216964):9.935770704):17.55306571):17.72760684,(((((23:44.25029407,(38:29.42053029,((((6:12.96287458,(12:10.77063375,51:10.77063375):2.192240831):4.400729538,(62:13.88209492,((((50:3.130150225,49:3.130150225):4.624392917,((16:4.037068302,(17:2.90084162,13:2.90084162):1.136226682):0.6242513094,(15:2.279695109,14:2.279695109):2.381624502):3.093223532):3.118726803,(36:9.007903433,11:9.007903433):1.865366513):0.4396670207,(9:3.752302848,8:3.752302848):7.560634118):2.569157958):3.481509191):2.794089007,((44:12.7031103,(43:9.888134742,(46:7.81837424,45:7.81837424):2.069760502):2.814975557):2.368830111,37:15.07194041):5.085752713):2.599544998,(((18:6.341942836,19:6.341942836):7.231350163,20:13.573293):6.598439015,((39:10.31964541,41:10.31964541):2.425844386,(40:3.189646551,42:3.189646551):9.555843243):7.426242219):2.585506106):6.663292169):14.82976378):23.94090941,(7:45.44871163,(28:17.24398506,22:17.24398506):28.20472657):22.74249185):10.86529415,((3:1.156526668,4:1.156526668):49.04839571,(59:35.56910947,((53:19.01972506,52:19.01972506):8.524866743,34:27.54459181):8.024517666):14.63581291):28.85157524):7.928503966,((35:19.61169914,30:19.61169914):47.31311744,(((21:2.491011175,(60:1.358094397,54:1.358094397):1.132916778):9.443659596,58:11.93467077):6.176361559,48:18.11103233):48.81378425):20.06018501):9.9509552,47:96.93595679):8.838379632);
+END;

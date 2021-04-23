@@ -1,0 +1,311 @@
+SpecimenID	SpectrumID	Spectro	SpeShort	Wing	Side	Spot	SpecimenID.MEB	SpecimenID.ADN	Tribe	Tip.Label	New.TipLabel	Genus	species	mimicry.ring
+11-1002	11-1002_GEO1_FW_V_v1_1811346U1	1811346U1	GEO1	FW	V	s1	11-1002	11-1002		11_1002_GEO1	Geo_1		Geo1	agnosia
+11-1002	11-1002_GEO1_FW_V_v2_1811346U1	1811346U1	GEO1	FW	V	s2	11-1002	11-1002		11_1002_GEO1	Geo_1		Geo1	agnosia
+11-1002	11-1002_GEO1_FW_V_v3_1811346U1	1811346U1	GEO1	FW	V	s3	11-1002	11-1002		11_1002_GEO1	Geo_1		Geo1	agnosia
+11-1002	11-1002_GEO1_FW_V_v4_1811346U1	1811346U1	GEO1	FW	V	s4	11-1002	11-1002		11_1002_GEO1	Geo_1		Geo1	agnosia
+11-1002	11-1002_GEO1_FW_V_v5_1811346U1	1811346U1	GEO1	FW	V	s5	11-1002	11-1002		11_1002_GEO1	Geo_1		Geo1	agnosia
+11-1065	11-1065_MOTH2_FW_V_v1_1811346U1	1811346U1	MOTH2	FW	V	s1	11-1065	11-1065		11_1065_MOTH2	Arctiinae_2		Arctiinae2	lerida
+11-1065	11-1065_MOTH2_FW_V_v2_1811346U1	1811346U1	MOTH2	FW	V	s2	11-1065	11-1065		11_1065_MOTH2	Arctiinae_2		Arctiinae2	lerida
+11-1065	11-1065_MOTH2_FW_V_v3_1811346U1	1811346U1	MOTH2	FW	V	s3	11-1065	11-1065		11_1065_MOTH2	Arctiinae_2		Arctiinae2	lerida
+11-1065	11-1065_MOTH2_FW_V_v4_1811346U1	1811346U1	MOTH2	FW	V	s4	11-1065	11-1065		11_1065_MOTH2	Arctiinae_2		Arctiinae2	lerida
+11-1065	11-1065_MOTH2_FW_V_v5_1811346U1	1811346U1	MOTH2	FW	V	s5	11-1065	11-1065		11_1065_MOTH2	Arctiinae_2		Arctiinae2	lerida
+11-1116	11-1116_ITHOFLOR_FW_V_v1_1811346U1	1811346U1	ITHOFLOR	FW	V	s1	11-1116	11-1116		11_1116_ITHOFLO	Ithomiola_floralis_orange-tip	Ithomiola	floralis	aureliana
+11-1116	11-1116_ITHOFLOR_FW_V_v2_1811346U1	1811346U1	ITHOFLOR	FW	V	s2	11-1116	11-1116		11_1116_ITHOFLO	Ithomiola_floralis_orange-tip	Ithomiola	floralis	aureliana
+11-1116	11-1116_ITHOFLOR_FW_V_v3_1811346U1	1811346U1	ITHOFLOR	FW	V	s3	11-1116	11-1116		11_1116_ITHOFLO	Ithomiola_floralis_orange-tip	Ithomiola	floralis	aureliana
+11-1116	11-1116_ITHOFLOR_FW_V_v4_1811346U1	1811346U1	ITHOFLOR	FW	V	s4	11-1116	11-1116		11_1116_ITHOFLO	Ithomiola_floralis_orange-tip	Ithomiola	floralis	aureliana
+11-1116	11-1116_ITHOFLOR_FW_V_v5_1811346U1	1811346U1	ITHOFLOR	FW	V	s5	11-1116	11-1116		11_1116_ITHOFLO	Ithomiola_floralis_orange-tip	Ithomiola	floralis	aureliana
+11-1127	11-1127_ITHOFLOR_FW_V_v1_1811346U1	1811346U1	ITHOFLOR	FW	V	s1	11-1127	11-1127		11_1127_ITHOFLO	Ithomiola_floralis_white-band	Ithomiola	floralis	agnosia
+11-1127	11-1127_ITHOFLOR_FW_V_v2_1811346U1	1811346U1	ITHOFLOR	FW	V	s2	11-1127	11-1127		11_1127_ITHOFLO	Ithomiola_floralis_white-band	Ithomiola	floralis	agnosia
+11-1127	11-1127_ITHOFLOR_FW_V_v3_1811346U1	1811346U1	ITHOFLOR	FW	V	s3	11-1127	11-1127		11_1127_ITHOFLO	Ithomiola_floralis_white-band	Ithomiola	floralis	agnosia
+11-1127	11-1127_ITHOFLOR_FW_V_v4_1811346U1	1811346U1	ITHOFLOR	FW	V	s4	11-1127	11-1127		11_1127_ITHOFLO	Ithomiola_floralis_white-band	Ithomiola	floralis	agnosia
+11-1127	11-1127_ITHOFLOR_FW_V_v5_1811346U1	1811346U1	ITHOFLOR	FW	V	s5	11-1127	11-1127		11_1127_ITHOFLO	Ithomiola_floralis_white-band	Ithomiola	floralis	agnosia
+11-1879	11-1879_GEO3_FW_V_v1_1811346U1	1811346U1	GEO3	FW	V	s1	11-1879	11-1879		11_1879_GEO3	Geo_3		Geo3	agnosia
+11-1879	11-1879_GEO3_FW_V_v2_1811346U1	1811346U1	GEO3	FW	V	s2	11-1879	11-1879		11_1879_GEO3	Geo_3		Geo3	agnosia
+11-1879	11-1879_GEO3_FW_V_v3_1811346U1	1811346U1	GEO3	FW	V	s3	11-1879	11-1879		11_1879_GEO3	Geo_3		Geo3	agnosia
+11-1879	11-1879_GEO3_FW_V_v4_1811346U1	1811346U1	GEO3	FW	V	s4	11-1879	11-1879		11_1879_GEO3	Geo_3		Geo3	agnosia
+11-1879	11-1879_GEO3_FW_V_v5_1811346U1	1811346U1	GEO3	FW	V	s5	11-1879	11-1879		11_1879_GEO3	Geo_3		Geo3	agnosia
+20455	20455_PSEUTIMN_FW_V_v1_1811346U1	1811346U1	PSEUTIMN	FW	V	s1	20455		Ithomiini	Pseudoscada_timna_utilla	Pseudoscada_timna_utilla	Pseudoscada	timna	agnosia
+20455	20455_PSEUTIMN_FW_V_v2_1811346U1	1811346U1	PSEUTIMN	FW	V	s2	20455		Ithomiini	Pseudoscada_timna_utilla	Pseudoscada_timna_utilla	Pseudoscada	timna	agnosia
+20455	20455_PSEUTIMN_FW_V_v3_1811346U1	1811346U1	PSEUTIMN	FW	V	s3	20455		Ithomiini	Pseudoscada_timna_utilla	Pseudoscada_timna_utilla	Pseudoscada	timna	agnosia
+20455	20455_PSEUTIMN_FW_V_v4_1811346U1	1811346U1	PSEUTIMN	FW	V	s4	20455		Ithomiini	Pseudoscada_timna_utilla	Pseudoscada_timna_utilla	Pseudoscada	timna	agnosia
+20455	20455_PSEUTIMN_FW_V_v5_1811346U1	1811346U1	PSEUTIMN	FW	V	s5	20455		Ithomiini	Pseudoscada_timna_utilla	Pseudoscada_timna_utilla	Pseudoscada	timna	agnosia
+20469	20469_OLERSEXM_FW_V_v1_1811346U1	1811346U1	OLERSEXM	FW	V	s1	20469		Ithomiini	Oleria_sexmaculata_sexmaculata	Oleria_sexmaculata_sexmaculata	Oleria	sexmaculata	lerida
+20469	20469_OLERSEXM_FW_V_v2_1811346U1	1811346U1	OLERSEXM	FW	V	s2	20469		Ithomiini	Oleria_sexmaculata_sexmaculata	Oleria_sexmaculata_sexmaculata	Oleria	sexmaculata	lerida
+20469	20469_OLERSEXM_FW_V_v3_1811346U1	1811346U1	OLERSEXM	FW	V	s3	20469		Ithomiini	Oleria_sexmaculata_sexmaculata	Oleria_sexmaculata_sexmaculata	Oleria	sexmaculata	lerida
+20469	20469_OLERSEXM_FW_V_v4_1811346U1	1811346U1	OLERSEXM	FW	V	s4	20469		Ithomiini	Oleria_sexmaculata_sexmaculata	Oleria_sexmaculata_sexmaculata	Oleria	sexmaculata	lerida
+20469	20469_OLERSEXM_FW_V_v5_1811346U1	1811346U1	OLERSEXM	FW	V	s5	20469		Ithomiini	Oleria_sexmaculata_sexmaculata	Oleria_sexmaculata_sexmaculata	Oleria	sexmaculata	lerida
+20558	20558_NAPEINAC_FW_V_v1_1811346U1	1811346U1	NAPEINAC	FW	V	s1	20628		Ithomiini	Napeogenes_inachia	Napeogenes_inachia	Napeogenes	inachia	eurimedia
+20558	20558_NAPEINAC_FW_V_v2_1811346U1	1811346U1	NAPEINAC	FW	V	s2	20628		Ithomiini	Napeogenes_inachia	Napeogenes_inachia	Napeogenes	inachia	eurimedia
+20558	20558_NAPEINAC_FW_V_v3_1811346U1	1811346U1	NAPEINAC	FW	V	s3	20628		Ithomiini	Napeogenes_inachia	Napeogenes_inachia	Napeogenes	inachia	eurimedia
+20558	20558_NAPEINAC_FW_V_v4_1811346U1	1811346U1	NAPEINAC	FW	V	s4	20628		Ithomiini	Napeogenes_inachia	Napeogenes_inachia	Napeogenes	inachia	eurimedia
+20558	20558_NAPEINAC_FW_V_v5_1811346U1	1811346U1	NAPEINAC	FW	V	s5	20628		Ithomiini	Napeogenes_inachia	Napeogenes_inachia	Napeogenes	inachia	eurimedia
+20569	20569_ITHOAMAR_FW_V_v1_1811346U1	1811346U1	ITHOAMAR	FW	V	s1	20569		Ithomiini	Ithomia_amarilla	Ithomia_amarilla	Ithomia	amarilla	eurimedia
+20569	20569_ITHOAMAR_FW_V_v2_1811346U1	1811346U1	ITHOAMAR	FW	V	s2	20569		Ithomiini	Ithomia_amarilla	Ithomia_amarilla	Ithomia	amarilla	eurimedia
+20569	20569_ITHOAMAR_FW_V_v3_1811346U1	1811346U1	ITHOAMAR	FW	V	s3	20569		Ithomiini	Ithomia_amarilla	Ithomia_amarilla	Ithomia	amarilla	eurimedia
+20569	20569_ITHOAMAR_FW_V_v4_1811346U1	1811346U1	ITHOAMAR	FW	V	s4	20569		Ithomiini	Ithomia_amarilla	Ithomia_amarilla	Ithomia	amarilla	eurimedia
+20569	20569_ITHOAMAR_FW_V_v5_1811346U1	1811346U1	ITHOAMAR	FW	V	s5	20569		Ithomiini	Ithomia_amarilla	Ithomia_amarilla	Ithomia	amarilla	eurimedia
+20623	20623_CALLLENA_FW_V_v1_1811346U1	1811346U1	CALLLENA	FW	V	s1	20623		Ithomiini	Callithomia_lenea_zelie	Callithomia_lenea_zelie	Callithomia	lenea	confusa
+20623	20623_CALLLENA_FW_V_v2_1811346U1	1811346U1	CALLLENA	FW	V	s2	20623		Ithomiini	Callithomia_lenea_zelie	Callithomia_lenea_zelie	Callithomia	lenea	confusa
+20623	20623_CALLLENA_FW_V_v3_1811346U1	1811346U1	CALLLENA	FW	V	s3	20623		Ithomiini	Callithomia_lenea_zelie	Callithomia_lenea_zelie	Callithomia	lenea	confusa
+20623	20623_CALLLENA_FW_V_v4_1811346U1	1811346U1	CALLLENA	FW	V	s4	20623		Ithomiini	Callithomia_lenea_zelie	Callithomia_lenea_zelie	Callithomia	lenea	confusa
+20623	20623_CALLLENA_FW_V_v5_1811346U1	1811346U1	CALLLENA	FW	V	s5	20623		Ithomiini	Callithomia_lenea_zelie	Callithomia_lenea_zelie	Callithomia	lenea	confusa
+20633	20633_OLLAONEG_FW_V_v1_1811346U1	1811346U1	OLLAONEG	FW	V	s1	20633		Ithomiini	Oleria_onega	Oleria_onega	Oleria	onega	lerida
+20633	20633_OLLAONEG_FW_V_v2_1811346U1	1811346U1	OLLAONEG	FW	V	s2	20633		Ithomiini	Oleria_onega	Oleria_onega	Oleria	onega	lerida
+20633	20633_OLLAONEG_FW_V_v3_1811346U1	1811346U1	OLLAONEG	FW	V	s3	20633		Ithomiini	Oleria_onega	Oleria_onega	Oleria	onega	lerida
+20633	20633_OLLAONEG_FW_V_v4_1811346U1	1811346U1	OLLAONEG	FW	V	s4	20633		Ithomiini	Oleria_onega	Oleria_onega	Oleria	onega	lerida
+20633	20633_OLLAONEG_FW_V_v5_1811346U1	1811346U1	OLLAONEG	FW	V	s5	20633		Ithomiini	Oleria_onega	Oleria_onega	Oleria	onega	lerida
+20635	20635_PSEUFLOR_FW_V_v1_1811346U1	1811346U1	PSEUFLOR	FW	V	s1	20635		Ithomiini	Pseudoscada_florula_aureola	Pseudoscada_florula_aureola	Pseudoscada	florula	aureliana
+20635	20635_PSEUFLOR_FW_V_v2_1811346U1	1811346U1	PSEUFLOR	FW	V	s2	20635		Ithomiini	Pseudoscada_florula_aureola	Pseudoscada_florula_aureola	Pseudoscada	florula	aureliana
+20635	20635_PSEUFLOR_FW_V_v3_1811346U1	1811346U1	PSEUFLOR	FW	V	s3	20635		Ithomiini	Pseudoscada_florula_aureola	Pseudoscada_florula_aureola	Pseudoscada	florula	aureliana
+20635	20635_PSEUFLOR_FW_V_v4_1811346U1	1811346U1	PSEUFLOR	FW	V	s4	20635		Ithomiini	Pseudoscada_florula_aureola	Pseudoscada_florula_aureola	Pseudoscada	florula	aureliana
+20635	20635_PSEUFLOR_FW_V_v5_1811346U1	1811346U1	PSEUFLOR	FW	V	s5	20635		Ithomiini	Pseudoscada_florula_aureola	Pseudoscada_florula_aureola	Pseudoscada	florula	aureliana
+20669	20669_PSEUFLOR_FW_V_v1_1811346U1	1811346U1	PSEUFLOR	FW	V	s1	20669		Ithomiini	Napeogenes_sylphis_corena	Napeogenes_sylphis_corena	Napeogenes	sylphis	aureliana
+20669	20669_PSEUFLOR_FW_V_v2_1811346U1	1811346U1	PSEUFLOR	FW	V	s2	20669		Ithomiini	Napeogenes_sylphis_corena	Napeogenes_sylphis_corena	Napeogenes	sylphis	aureliana
+20669	20669_PSEUFLOR_FW_V_v3_1811346U1	1811346U1	PSEUFLOR	FW	V	s3	20669		Ithomiini	Napeogenes_sylphis_corena	Napeogenes_sylphis_corena	Napeogenes	sylphis	aureliana
+20669	20669_PSEUFLOR_FW_V_v4_1811346U1	1811346U1	PSEUFLOR	FW	V	s4	20669		Ithomiini	Napeogenes_sylphis_corena	Napeogenes_sylphis_corena	Napeogenes	sylphis	aureliana
+20669	20669_PSEUFLOR_FW_V_v5_1811346U1	1811346U1	PSEUFLOR	FW	V	s5	20669		Ithomiini	Napeogenes_sylphis_corena	Napeogenes_sylphis_corena	Napeogenes	sylphis	aureliana
+20731	20731_METHCURN_FW_V_v1_1811346U1	1811346U1	METHCURN	FW	V	s1	20731		Ithomiini	Methona_curvifascia	Methona_curvifascia	Methona	curvifascia	confusa
+20731	20731_METHCURN_FW_V_v2_1811346U1	1811346U1	METHCURN	FW	V	s2	20731		Ithomiini	Methona_curvifascia	Methona_curvifascia	Methona	curvifascia	confusa
+20731	20731_METHCURN_FW_V_v3_1811346U1	1811346U1	METHCURN	FW	V	s3	20731		Ithomiini	Methona_curvifascia	Methona_curvifascia	Methona	curvifascia	confusa
+20731	20731_METHCURN_FW_V_v4_1811346U1	1811346U1	METHCURN	FW	V	s4	20731		Ithomiini	Methona_curvifascia	Methona_curvifascia	Methona	curvifascia	confusa
+20731	20731_METHCURN_FW_V_v5_1811346U1	1811346U1	METHCURN	FW	V	s5	20731		Ithomiini	Methona_curvifascia	Methona_curvifascia	Methona	curvifascia	confusa
+20778	20778_HETENEPH_FW_V_v1_1811346U1	1811346U1	HETENEPH	FW	V	s1	20680		Ithomiini	Heterosais_nephele_nephele	Heterosais_nephele_nephele	Heterosais	nephele	agnosia
+20778	20778_HETENEPH_FW_V_v2_1811346U1	1811346U1	HETENEPH	FW	V	s2	20680		Ithomiini	Heterosais_nephele_nephele	Heterosais_nephele_nephele	Heterosais	nephele	agnosia
+20778	20778_HETENEPH_FW_V_v3_1811346U1	1811346U1	HETENEPH	FW	V	s3	20680		Ithomiini	Heterosais_nephele_nephele	Heterosais_nephele_nephele	Heterosais	nephele	agnosia
+20778	20778_HETENEPH_FW_V_v4_1811346U1	1811346U1	HETENEPH	FW	V	s4	20680		Ithomiini	Heterosais_nephele_nephele	Heterosais_nephele_nephele	Heterosais	nephele	agnosia
+20778	20778_HETENEPH_FW_V_v5_1811346U1	1811346U1	HETENEPH	FW	V	s5	20680		Ithomiini	Heterosais_nephele_nephele	Heterosais_nephele_nephele	Heterosais	nephele	agnosia
+21050	21050_GODYHEWI_FW_V_v1_1811346U1	1811346U1	GODYHEWI	FW	V	s1	21050		Ithomiini	Godyris_hewitsoni	Godyris_hewitsoni	Godyris	hewitsoni	hewitsoni
+21050	21050_GODYHEWI_FW_V_v2_1811346U1	1811346U1	GODYHEWI	FW	V	s2	21050		Ithomiini	Godyris_hewitsoni	Godyris_hewitsoni	Godyris	hewitsoni	hewitsoni
+21050	21050_GODYHEWI_FW_V_v3_1811346U1	1811346U1	GODYHEWI	FW	V	s3	21050		Ithomiini	Godyris_hewitsoni	Godyris_hewitsoni	Godyris	hewitsoni	hewitsoni
+21050	21050_GODYHEWI_FW_V_v4_1811346U1	1811346U1	GODYHEWI	FW	V	s4	21050		Ithomiini	Godyris_hewitsoni	Godyris_hewitsoni	Godyris	hewitsoni	hewitsoni
+21050	21050_GODYHEWI_FW_V_v5_1811346U1	1811346U1	GODYHEWI	FW	V	s5	21050		Ithomiini	Godyris_hewitsoni	Godyris_hewitsoni	Godyris	hewitsoni	hewitsoni
+21175	21175_OLERATHA_FW_V_v1_1811346U1	1811346U1	OLERATHA	FW	V	s1	21175		Ithomiini	Oleria_athalina_banjana	Oleria_athalina_banjana	Oleria 	athalina	banjana-m
+21175	21175_OLERATHA_FW_V_v2_1811346U1	1811346U1	OLERATHA	FW	V	s2	21175		Ithomiini	Oleria_athalina_banjana	Oleria_athalina_banjana	Oleria 	athalina	banjana-m
+21175	21175_OLERATHA_FW_V_v3_1811346U1	1811346U1	OLERATHA	FW	V	s3	21175		Ithomiini	Oleria_athalina_banjana	Oleria_athalina_banjana	Oleria 	athalina	banjana-m
+21175	21175_OLERATHA_FW_V_v4_1811346U1	1811346U1	OLERATHA	FW	V	s4	21175		Ithomiini	Oleria_athalina_banjana	Oleria_athalina_banjana	Oleria 	athalina	banjana-m
+21175	21175_OLERATHA_FW_V_v5_1811346U1	1811346U1	OLERATHA	FW	V	s5	21175		Ithomiini	Oleria_athalina_banjana	Oleria_athalina_banjana	Oleria 	athalina	banjana-m
+21189	21189_GODYPANT_FW_V_v1_1811346U1	1811346U1	GODYPANT	FW	V	s1	21207		Ithomiini	Godyris_panthyale_panthyale	Godyris_panthyale_panthyale	Godyris	panthyale	panthyale
+21189	21189_GODYPANT_FW_V_v2_1811346U1	1811346U1	GODYPANT	FW	V	s2	21207		Ithomiini	Godyris_panthyale_panthyale	Godyris_panthyale_panthyale	Godyris	panthyale	panthyale
+21189	21189_GODYPANT_FW_V_v3_1811346U1	1811346U1	GODYPANT	FW	V	s3	21207		Ithomiini	Godyris_panthyale_panthyale	Godyris_panthyale_panthyale	Godyris	panthyale	panthyale
+21189	21189_GODYPANT_FW_V_v4_1811346U1	1811346U1	GODYPANT	FW	V	s4	21207		Ithomiini	Godyris_panthyale_panthyale	Godyris_panthyale_panthyale	Godyris	panthyale	panthyale
+21189	21189_GODYPANT_FW_V_v5_1811346U1	1811346U1	GODYPANT	FW	V	s5	21207		Ithomiini	Godyris_panthyale_panthyale	Godyris_panthyale_panthyale	Godyris	panthyale	panthyale
+21272	21272_HYPOLYDI_FW_V_v1_1811346U1	1811346U1	HYPOLYDI	FW	V	s1	21272		Ithomiini	Hypomenitis_lydia	Hypomenitis_lydia	Hypomenitis	lydia	hewitsoni
+21272	21272_HYPOLYDI_FW_V_v2_1811346U1	1811346U1	HYPOLYDI	FW	V	s2	21272		Ithomiini	Hypomenitis_lydia	Hypomenitis_lydia	Hypomenitis	lydia	hewitsoni
+21272	21272_HYPOLYDI_FW_V_v3_1811346U1	1811346U1	HYPOLYDI	FW	V	s3	21272		Ithomiini	Hypomenitis_lydia	Hypomenitis_lydia	Hypomenitis	lydia	hewitsoni
+21272	21272_HYPOLYDI_FW_V_v4_1811346U1	1811346U1	HYPOLYDI	FW	V	s4	21272		Ithomiini	Hypomenitis_lydia	Hypomenitis_lydia	Hypomenitis	lydia	hewitsoni
+21272	21272_HYPOLYDI_FW_V_v5_1811346U1	1811346U1	HYPOLYDI	FW	V	s5	21272		Ithomiini	Hypomenitis_lydia	Hypomenitis_lydia	Hypomenitis	lydia	hewitsoni
+21273	21273_HYPOORTY_FW_V_v1_1811346U1	1811346U1	HYPOORTY	FW	V	s1	ME17-58		Ithomiini	Hypomenitis_ortygia_ortygia	Hypomenitis_ortygia_ortygia	Hypomenitis	ortygia	panthyale
+21273	21273_HYPOORTY_FW_V_v2_1811346U1	1811346U1	HYPOORTY	FW	V	s2	ME17-58		Ithomiini	Hypomenitis_ortygia_ortygia	Hypomenitis_ortygia_ortygia	Hypomenitis	ortygia	panthyale
+21273	21273_HYPOORTY_FW_V_v3_1811346U1	1811346U1	HYPOORTY	FW	V	s3	ME17-58		Ithomiini	Hypomenitis_ortygia_ortygia	Hypomenitis_ortygia_ortygia	Hypomenitis	ortygia	panthyale
+21273	21273_HYPOORTY_FW_V_v4_1811346U1	1811346U1	HYPOORTY	FW	V	s4	ME17-58		Ithomiini	Hypomenitis_ortygia_ortygia	Hypomenitis_ortygia_ortygia	Hypomenitis	ortygia	panthyale
+21273	21273_HYPOORTY_FW_V_v5_1811346U1	1811346U1	HYPOORTY	FW	V	s5	ME17-58		Ithomiini	Hypomenitis_ortygia_ortygia	Hypomenitis_ortygia_ortygia	Hypomenitis	ortygia	panthyale
+21292	21292_HYPOENIG_FW_V_v1_1811346U1	1811346U1	HYPOENIG	FW	V	s1	21270		Ithomiini	Hypomenitis_enigma	Hypomenitis_enigma	Hypomenitis	enigma	panthyale
+21292	21292_HYPOENIG_FW_V_v2_1811346U1	1811346U1	HYPOENIG	FW	V	s2	21270		Ithomiini	Hypomenitis_enigma	Hypomenitis_enigma	Hypomenitis	enigma	panthyale
+21292	21292_HYPOENIG_FW_V_v3_1811346U1	1811346U1	HYPOENIG	FW	V	s3	21270		Ithomiini	Hypomenitis_enigma	Hypomenitis_enigma	Hypomenitis	enigma	panthyale
+21292	21292_HYPOENIG_FW_V_v4_1811346U1	1811346U1	HYPOENIG	FW	V	s4	21270		Ithomiini	Hypomenitis_enigma	Hypomenitis_enigma	Hypomenitis	enigma	panthyale
+21292	21292_HYPOENIG_FW_V_v5_1811346U1	1811346U1	HYPOENIG	FW	V	s5	21270		Ithomiini	Hypomenitis_enigma	Hypomenitis_enigma	Hypomenitis	enigma	panthyale
+21296	21296_MEGOORES_FW_V_v1_1811346U1	1811346U1	MEGOORES	FW	V	s1	21296		Ithomiini	Megoleria_orestilla	Megoleria_orestilla	Megoleria	orestilla	banjana-m
+21296	21296_MEGOORES_FW_V_v2_1811346U1	1811346U1	MEGOORES	FW	V	s2	21296		Ithomiini	Megoleria_orestilla	Megoleria_orestilla	Megoleria	orestilla	banjana-m
+21296	21296_MEGOORES_FW_V_v3_1811346U1	1811346U1	MEGOORES	FW	V	s3	21296		Ithomiini	Megoleria_orestilla	Megoleria_orestilla	Megoleria	orestilla	banjana-m
+21296	21296_MEGOORES_FW_V_v4_1811346U1	1811346U1	MEGOORES	FW	V	s4	21296		Ithomiini	Megoleria_orestilla	Megoleria_orestilla	Megoleria	orestilla	banjana-m
+21296	21296_MEGOORES_FW_V_v5_1811346U1	1811346U1	MEGOORES	FW	V	s5	21296		Ithomiini	Megoleria_orestilla	Megoleria_orestilla	Megoleria	orestilla	banjana-m
+21299	21299_NAPELARI_FW_V_v1_1811346U1	1811346U1	NAPELARI	FW	V	s1	21261		Ithomiini	Napeogenes_larilla	Napeogenes_larilla	Napeogenes	larilla	theudelinda
+21299	21299_NAPELARI_FW_V_v2_1811346U1	1811346U1	NAPELARI	FW	V	s2	21261		Ithomiini	Napeogenes_larilla	Napeogenes_larilla	Napeogenes	larilla	theudelinda
+21299	21299_NAPELARI_FW_V_v3_1811346U1	1811346U1	NAPELARI	FW	V	s3	21261		Ithomiini	Napeogenes_larilla	Napeogenes_larilla	Napeogenes	larilla	theudelinda
+21299	21299_NAPELARI_FW_V_v4_1811346U1	1811346U1	NAPELARI	FW	V	s4	21261		Ithomiini	Napeogenes_larilla	Napeogenes_larilla	Napeogenes	larilla	theudelinda
+21299	21299_NAPELARI_FW_V_v5_1811346U1	1811346U1	NAPELARI	FW	V	s5	21261		Ithomiini	Napeogenes_larilla	Napeogenes_larilla	Napeogenes	larilla	theudelinda
+21309	21309_OLLAOLER_FW_V_v1_1811346U1	1811346U1	OLLAOLER	FW	V	s1	21309		Ithomiini	Oleria_olerioides	Ollantaya_olerioides	Ollantaya	olerioides	banjana-m
+21309	21309_OLLAOLER_FW_V_v2_1811346U1	1811346U1	OLLAOLER	FW	V	s2	21309		Ithomiini	Oleria_olerioides	Ollantaya_olerioides	Ollantaya	olerioides	banjana-m
+21309	21309_OLLAOLER_FW_V_v3_1811346U1	1811346U1	OLLAOLER	FW	V	s3	21309		Ithomiini	Oleria_olerioides	Ollantaya_olerioides	Ollantaya	olerioides	banjana-m
+21309	21309_OLLAOLER_FW_V_v4_1811346U1	1811346U1	OLLAOLER	FW	V	s4	21309		Ithomiini	Oleria_olerioides	Ollantaya_olerioides	Ollantaya	olerioides	banjana-m
+21309	21309_OLLAOLER_FW_V_v5_1811346U1	1811346U1	OLLAOLER	FW	V	s5	21309		Ithomiini	Oleria_olerioides	Ollantaya_olerioides	Ollantaya	olerioides	banjana-m
+21359	21359_PTERONEI_FW_V_v1_1811346U1	1811346U1	PTERONEI	FW	V	s1	21359		Ithomiini	Pteronymia_oneida_oneida	Pteronymia_oneida_oneida	Pteronymia	oneida	hewitsoni
+21359	21359_PTERONEI_FW_V_v2_1811346U1	1811346U1	PTERONEI	FW	V	s2	21359		Ithomiini	Pteronymia_oneida_oneida	Pteronymia_oneida_oneida	Pteronymia	oneida	hewitsoni
+21359	21359_PTERONEI_FW_V_v3_1811346U1	1811346U1	PTERONEI	FW	V	s3	21359		Ithomiini	Pteronymia_oneida_oneida	Pteronymia_oneida_oneida	Pteronymia	oneida	hewitsoni
+21359	21359_PTERONEI_FW_V_v4_1811346U1	1811346U1	PTERONEI	FW	V	s4	21359		Ithomiini	Pteronymia_oneida_oneida	Pteronymia_oneida_oneida	Pteronymia	oneida	hewitsoni
+21359	21359_PTERONEI_FW_V_v5_1811346U1	1811346U1	PTERONEI	FW	V	s5	21359		Ithomiini	Pteronymia_oneida_oneida	Pteronymia_oneida_oneida	Pteronymia	oneida	hewitsoni
+21466	21466_ITHOAVEL_FW_V_v1_1811346U1	1811346U1	ITHOAVEL	FW	V	s1	ME10-160		Ithomiini	Ithomia_avella	Ithomia_avella	Ithomia	avella	theudelinda
+21466	21466_ITHOAVEL_FW_V_v2_1811346U1	1811346U1	ITHOAVEL	FW	V	s2	ME10-160		Ithomiini	Ithomia_avella	Ithomia_avella	Ithomia	avella	theudelinda
+21466	21466_ITHOAVEL_FW_V_v3_1811346U1	1811346U1	ITHOAVEL	FW	V	s3	ME10-160		Ithomiini	Ithomia_avella	Ithomia_avella	Ithomia	avella	theudelinda
+21466	21466_ITHOAVEL_FW_V_v4_1811346U1	1811346U1	ITHOAVEL	FW	V	s4	ME10-160		Ithomiini	Ithomia_avella	Ithomia_avella	Ithomia	avella	theudelinda
+21466	21466_ITHOAVEL_FW_V_v5_1811346U1	1811346U1	ITHOAVEL	FW	V	s5	ME10-160		Ithomiini	Ithomia_avella	Ithomia_avella	Ithomia	avella	theudelinda
+21469	21469_HYPOTHEU_FW_V_v1_1811346U1	1811346U1	HYPOTHEU	FW	V	s1	21642		Ithomiini	Hypomenitis_theudelinda_zalmunna	Hypomenitis_theudelinda_zalmunna	Hypomenitis	theudelinda	theudelinda
+21469	21469_HYPOTHEU_FW_V_v2_1811346U1	1811346U1	HYPOTHEU	FW	V	s2	21642		Ithomiini	Hypomenitis_theudelinda_zalmunna	Hypomenitis_theudelinda_zalmunna	Hypomenitis	theudelinda	theudelinda
+21469	21469_HYPOTHEU_FW_V_v3_1811346U1	1811346U1	HYPOTHEU	FW	V	s3	21642		Ithomiini	Hypomenitis_theudelinda_zalmunna	Hypomenitis_theudelinda_zalmunna	Hypomenitis	theudelinda	theudelinda
+21469	21469_HYPOTHEU_FW_V_v4_1811346U1	1811346U1	HYPOTHEU	FW	V	s4	21642		Ithomiini	Hypomenitis_theudelinda_zalmunna	Hypomenitis_theudelinda_zalmunna	Hypomenitis	theudelinda	theudelinda
+21469	21469_HYPOTHEU_FW_V_v5_1811346U1	1811346U1	HYPOTHEU	FW	V	s5	21642		Ithomiini	Hypomenitis_theudelinda_zalmunna	Hypomenitis_theudelinda_zalmunna	Hypomenitis	theudelinda	theudelinda
+21535	21535_HYPOONEI_FW_V_v1_1811346U1	1811346U1	HYPOONEI	FW	V	s1	21245		Ithomiini	Hypomenitis_oneidodes	Hypomenitis_oneidodes	Hypomenitis	oneidodes	theudelinda
+21535	21535_HYPOONEI_FW_V_v2_1811346U1	1811346U1	HYPOONEI	FW	V	s2	21245		Ithomiini	Hypomenitis_oneidodes	Hypomenitis_oneidodes	Hypomenitis	oneidodes	theudelinda
+21535	21535_HYPOONEI_FW_V_v3_1811346U1	1811346U1	HYPOONEI	FW	V	s3	21245		Ithomiini	Hypomenitis_oneidodes	Hypomenitis_oneidodes	Hypomenitis	oneidodes	theudelinda
+21535	21535_HYPOONEI_FW_V_v4_1811346U1	1811346U1	HYPOONEI	FW	V	s4	21245		Ithomiini	Hypomenitis_oneidodes	Hypomenitis_oneidodes	Hypomenitis	oneidodes	theudelinda
+21535	21535_HYPOONEI_FW_V_v5_1811346U1	1811346U1	HYPOONEI	FW	V	s5	21245		Ithomiini	Hypomenitis_oneidodes	Hypomenitis_oneidodes	Hypomenitis	oneidodes	theudelinda
+21541	21541_HYALPARA_FW_V_v1_1811346U1	1811346U1	HYALPARA	FW	V	s1	21641		Ithomiini	Hyalenna_paradoxa_praestigiosa	Hyalenna_paradoxa_praestigiosa	Hyalenna	paradoxa	panthyale
+21541	21541_HYALPARA_FW_V_v2_1811346U1	1811346U1	HYALPARA	FW	V	s2	21641		Ithomiini	Hyalenna_paradoxa_praestigiosa	Hyalenna_paradoxa_praestigiosa	Hyalenna	paradoxa	panthyale
+21541	21541_HYALPARA_FW_V_v3_1811346U1	1811346U1	HYALPARA	FW	V	s3	21641		Ithomiini	Hyalenna_paradoxa_praestigiosa	Hyalenna_paradoxa_praestigiosa	Hyalenna	paradoxa	panthyale
+21541	21541_HYALPARA_FW_V_v4_1811346U1	1811346U1	HYALPARA	FW	V	s4	21641		Ithomiini	Hyalenna_paradoxa_praestigiosa	Hyalenna_paradoxa_praestigiosa	Hyalenna	paradoxa	panthyale
+21541	21541_HYALPARA_FW_V_v5_1811346U1	1811346U1	HYALPARA	FW	V	s5	21641		Ithomiini	Hyalenna_paradoxa_praestigiosa	Hyalenna_paradoxa_praestigiosa	Hyalenna	paradoxa	panthyale
+CP17-10	CP17-10_PARIHAHN_FW_V_v1_1811346U1	1811346U1	PARIHAHN	FW	V	s1	CP17-10			Parides_iphidamas	Parides_hahneli	Parides	hahneli	confusa
+CP17-10	CP17-10_PARIHAHN_FW_V_v2_1811346U1	1811346U1	PARIHAHN	FW	V	s2	CP17-10			Parides_iphidamas	Parides_hahneli	Parides	hahneli	confusa
+CP17-10	CP17-10_PARIHAHN_FW_V_v3_1811346U1	1811346U1	PARIHAHN	FW	V	s3	CP17-10			Parides_iphidamas	Parides_hahneli	Parides	hahneli	confusa
+CP17-10	CP17-10_PARIHAHN_FW_V_v4_1811346U1	1811346U1	PARIHAHN	FW	V	s4	CP17-10			Parides_iphidamas	Parides_hahneli	Parides	hahneli	confusa
+CP17-10	CP17-10_PARIHAHN_FW_V_v5_1811346U1	1811346U1	PARIHAHN	FW	V	s5	CP17-10			Parides_iphidamas	Parides_hahneli	Parides	hahneli	confusa
+CP17-3	CP17-3_ITHOAGNO_FW_V_v1_1811346U1	1811346U1	ITHOAGNO	FW	V	s1	DG18-012		Ithomiini	Ithomia_agnosia_agnosia	Ithomia_agnosia_agnosia	Ithomia	agnosia	agnosia
+CP17-3	CP17-3_ITHOAGNO_FW_V_v2_1811346U1	1811346U1	ITHOAGNO	FW	V	s2	DG18-012		Ithomiini	Ithomia_agnosia_agnosia	Ithomia_agnosia_agnosia	Ithomia	agnosia	agnosia
+CP17-3	CP17-3_ITHOAGNO_FW_V_v3_1811346U1	1811346U1	ITHOAGNO	FW	V	s3	DG18-012		Ithomiini	Ithomia_agnosia_agnosia	Ithomia_agnosia_agnosia	Ithomia	agnosia	agnosia
+CP17-3	CP17-3_ITHOAGNO_FW_V_v4_1811346U1	1811346U1	ITHOAGNO	FW	V	s4	DG18-012		Ithomiini	Ithomia_agnosia_agnosia	Ithomia_agnosia_agnosia	Ithomia	agnosia	agnosia
+CP17-3	CP17-3_ITHOAGNO_FW_V_v5_1811346U1	1811346U1	ITHOAGNO	FW	V	s5	DG18-012		Ithomiini	Ithomia_agnosia_agnosia	Ithomia_agnosia_agnosia	Ithomia	agnosia	agnosia
+DG16-051	DG16-051_MCCLCYNO_FW_V_v1_1811346U1	1811346U1	MCCLCYNO	FW	V	s1	DG16-049		Ithomiini	Mcclungia_cymo	Mcclungia_cymo	Mcclungia	cymo	eurimedia
+DG16-051	DG16-051_MCCLCYNO_FW_V_v2_1811346U1	1811346U1	MCCLCYNO	FW	V	s2	DG16-049		Ithomiini	Mcclungia_cymo	Mcclungia_cymo	Mcclungia	cymo	eurimedia
+DG16-051	DG16-051_MCCLCYNO_FW_V_v3_1811346U1	1811346U1	MCCLCYNO	FW	V	s3	DG16-049		Ithomiini	Mcclungia_cymo	Mcclungia_cymo	Mcclungia	cymo	eurimedia
+DG16-051	DG16-051_MCCLCYNO_FW_V_v4_1811346U1	1811346U1	MCCLCYNO	FW	V	s4	DG16-049		Ithomiini	Mcclungia_cymo	Mcclungia_cymo	Mcclungia	cymo	eurimedia
+DG16-051	DG16-051_MCCLCYNO_FW_V_v5_1811346U1	1811346U1	MCCLCYNO	FW	V	s5	DG16-049		Ithomiini	Mcclungia_cymo	Mcclungia_cymo	Mcclungia	cymo	eurimedia
+LS11-1414	LS11-1414_PATIORIS_FW_V_v1_1811346U1	1811346U1	PATIORIS	FW	V	s1	LS11-1414	TR17-2		Patia_orise	Patia_orise	Patia	orise	confusa
+LS11-1414	LS11-1414_PATIORIS_FW_V_v2_1811346U1	1811346U1	PATIORIS	FW	V	s2	LS11-1414	TR17-2		Patia_orise	Patia_orise	Patia	orise	confusa
+LS11-1414	LS11-1414_PATIORIS_FW_V_v3_1811346U1	1811346U1	PATIORIS	FW	V	s3	LS11-1414	TR17-2		Patia_orise	Patia_orise	Patia	orise	confusa
+LS11-1414	LS11-1414_PATIORIS_FW_V_v4_1811346U1	1811346U1	PATIORIS	FW	V	s4	LS11-1414	TR17-2		Patia_orise	Patia_orise	Patia	orise	confusa
+LS11-1414	LS11-1414_PATIORIS_FW_V_v5_1811346U1	1811346U1	PATIORIS	FW	V	s5	LS11-1414	TR17-2		Patia_orise	Patia_orise	Patia	orise	confusa
+LS11-1860	LS11-1860_LYCOILIO_FW_V_v1_1811346U1	1811346U1	LYCOILIO	FW	V	s1	11-1000	LS11-1860		Lycorea_ilione	Lycorea_ilione	Lycorea	ilione	confusa
+LS11-1860	LS11-1860_LYCOILIO_FW_V_v2_1811346U1	1811346U1	LYCOILIO	FW	V	s2	11-1000	LS11-1860		Lycorea_ilione	Lycorea_ilione	Lycorea	ilione	confusa
+LS11-1860	LS11-1860_LYCOILIO_FW_V_v3_1811346U1	1811346U1	LYCOILIO	FW	V	s3	11-1000	LS11-1860		Lycorea_ilione	Lycorea_ilione	Lycorea	ilione	confusa
+LS11-1860	LS11-1860_LYCOILIO_FW_V_v4_1811346U1	1811346U1	LYCOILIO	FW	V	s4	11-1000	LS11-1860		Lycorea_ilione	Lycorea_ilione	Lycorea	ilione	confusa
+LS11-1860	LS11-1860_LYCOILIO_FW_V_v5_1811346U1	1811346U1	LYCOILIO	FW	V	s5	11-1000	LS11-1860		Lycorea_ilione	Lycorea_ilione	Lycorea	ilione	confusa
+LS11-2240	LS11-2240_DISMTHEU_FW_V_v1_1811346U1	1811346U1	DISMTHEU	FW	V	s1	ME10-375	LS11-2240		LS11_2240_DISTH	Dismorphia_theucharila_yolanda	Dismorphia	theucharila	banjana-m
+LS11-2240	LS11-2240_DISMTHEU_FW_V_v2_1811346U1	1811346U1	DISMTHEU	FW	V	s2	ME10-375	LS11-2240		LS11_2240_DISTH	Dismorphia_theucharila_yolanda	Dismorphia	theucharila	banjana-m
+LS11-2240	LS11-2240_DISMTHEU_FW_V_v3_1811346U1	1811346U1	DISMTHEU	FW	V	s3	ME10-375	LS11-2240		LS11_2240_DISTH	Dismorphia_theucharila_yolanda	Dismorphia	theucharila	banjana-m
+LS11-2240	LS11-2240_DISMTHEU_FW_V_v4_1811346U1	1811346U1	DISMTHEU	FW	V	s4	ME10-375	LS11-2240		LS11_2240_DISTH	Dismorphia_theucharila_yolanda	Dismorphia	theucharila	banjana-m
+LS11-2240	LS11-2240_DISMTHEU_FW_V_v5_1811346U1	1811346U1	DISMTHEU	FW	V	s5	ME10-375	LS11-2240		LS11_2240_DISTH	Dismorphia_theucharila_yolanda	Dismorphia	theucharila	banjana-m
+LS11-2399	LS11-2399_MOSCPINT_FW_V_v1_1811346U1	1811346U1	MOSCPINT	FW	V	s1	TR17-3	TR17-3		TR17_3_MOSCPINT	Moschoneura_pinthous	Moschoneura	pinthous	eurimedia
+LS11-2399	LS11-2399_MOSCPINT_FW_V_v2_1811346U1	1811346U1	MOSCPINT	FW	V	s2	TR17-3	TR17-3		TR17_3_MOSCPINT	Moschoneura_pinthous	Moschoneura	pinthous	eurimedia
+LS11-2399	LS11-2399_MOSCPINT_FW_V_v3_1811346U1	1811346U1	MOSCPINT	FW	V	s3	TR17-3	TR17-3		TR17_3_MOSCPINT	Moschoneura_pinthous	Moschoneura	pinthous	eurimedia
+LS11-2399	LS11-2399_MOSCPINT_FW_V_v4_1811346U1	1811346U1	MOSCPINT	FW	V	s4	TR17-3	TR17-3		TR17_3_MOSCPINT	Moschoneura_pinthous	Moschoneura	pinthous	eurimedia
+LS11-2399	LS11-2399_MOSCPINT_FW_V_v5_1811346U1	1811346U1	MOSCPINT	FW	V	s5	TR17-3	TR17-3		TR17_3_MOSCPINT	Moschoneura_pinthous	Moschoneura	pinthous	eurimedia
+LS11-2414	LS11-2414_LERIDA_FW_V_v1_1811346U1	1811346U1	LERIDA	FW	V	s1	LS11-2414	LS11-2414		LS11_2414_ERES1	Vila_sp	Vila	sp ?	lerida
+LS11-2414	LS11-2414_LERIDA_FW_V_v2_1811346U1	1811346U1	LERIDA	FW	V	s2	LS11-2414	LS11-2414		LS11_2414_ERES1	Vila_sp	Vila	sp ?	lerida
+LS11-2414	LS11-2414_LERIDA_FW_V_v3_1811346U1	1811346U1	LERIDA	FW	V	s3	LS11-2414	LS11-2414		LS11_2414_ERES1	Vila_sp	Vila	sp ?	lerida
+LS11-2414	LS11-2414_LERIDA_FW_V_v4_1811346U1	1811346U1	LERIDA	FW	V	s4	LS11-2414	LS11-2414		LS11_2414_ERES1	Vila_sp	Vila	sp ?	lerida
+LS11-2414	LS11-2414_LERIDA_FW_V_v5_1811346U1	1811346U1	LERIDA	FW	V	s5	LS11-2414	LS11-2414		LS11_2414_ERES1	Vila_sp	Vila	sp ?	lerida
+ME10-17	ME10-17_VELAPARD_FW_V_v1_1811346U1	1811346U1	VELAPARD	FW	V	s1	ME10-17		Ithomiini	Veladyris_pardalis	Veladyris_pardalis	Veladyris	pardalis	theudelinda
+ME10-17	ME10-17_VELAPARD_FW_V_v2_1811346U1	1811346U1	VELAPARD	FW	V	s2	ME10-17		Ithomiini	Veladyris_pardalis	Veladyris_pardalis	Veladyris	pardalis	theudelinda
+ME10-17	ME10-17_VELAPARD_FW_V_v3_1811346U1	1811346U1	VELAPARD	FW	V	s3	ME10-17		Ithomiini	Veladyris_pardalis	Veladyris_pardalis	Veladyris	pardalis	theudelinda
+ME10-17	ME10-17_VELAPARD_FW_V_v4_1811346U1	1811346U1	VELAPARD	FW	V	s4	ME10-17		Ithomiini	Veladyris_pardalis	Veladyris_pardalis	Veladyris	pardalis	theudelinda
+ME10-17	ME10-17_VELAPARD_FW_V_v5_1811346U1	1811346U1	VELAPARD	FW	V	s5	ME10-17		Ithomiini	Veladyris_pardalis	Veladyris_pardalis	Veladyris	pardalis	theudelinda
+ME10-292	ME10-292_ERESNAUP_FW_V_v1_1811346U1	1811346U1	ERESNAUP	FW	V	s1	ME10-292	ME10-292		Eresia_nauplius_plagiata	Eresia_nauplius_plagiata	Eresia	nauplius	lerida
+ME10-292	ME10-292_ERESNAUP_FW_V_v2_1811346U1	1811346U1	ERESNAUP	FW	V	s2	ME10-292	ME10-292		Eresia_nauplius_plagiata	Eresia_nauplius_plagiata	Eresia	nauplius	lerida
+ME10-292	ME10-292_ERESNAUP_FW_V_v3_1811346U1	1811346U1	ERESNAUP	FW	V	s3	ME10-292	ME10-292		Eresia_nauplius_plagiata	Eresia_nauplius_plagiata	Eresia	nauplius	lerida
+ME10-292	ME10-292_ERESNAUP_FW_V_v4_1811346U1	1811346U1	ERESNAUP	FW	V	s4	ME10-292	ME10-292		Eresia_nauplius_plagiata	Eresia_nauplius_plagiata	Eresia	nauplius	lerida
+ME10-292	ME10-292_ERESNAUP_FW_V_v5_1811346U1	1811346U1	ERESNAUP	FW	V	s5	ME10-292	ME10-292		Eresia_nauplius_plagiata	Eresia_nauplius_plagiata	Eresia	nauplius	lerida
+ME10-315	ME10-315_NAPEHARB_FW_V_v1_1811346U1	1811346U1	NAPEHARB	FW	V	s1	ME10-315		Ithomiini	Napeogenes_harbona	Napeogenes_harbona	Napeogenes	harbona	banjana-m
+ME10-315	ME10-315_NAPEHARB_FW_V_v2_1811346U1	1811346U1	NAPEHARB	FW	V	s2	ME10-315		Ithomiini	Napeogenes_harbona	Napeogenes_harbona	Napeogenes	harbona	banjana-m
+ME10-315	ME10-315_NAPEHARB_FW_V_v3_1811346U1	1811346U1	NAPEHARB	FW	V	s3	ME10-315		Ithomiini	Napeogenes_harbona	Napeogenes_harbona	Napeogenes	harbona	banjana-m
+ME10-315	ME10-315_NAPEHARB_FW_V_v4_1811346U1	1811346U1	NAPEHARB	FW	V	s4	ME10-315		Ithomiini	Napeogenes_harbona	Napeogenes_harbona	Napeogenes	harbona	banjana-m
+ME10-315	ME10-315_NAPEHARB_FW_V_v5_1811346U1	1811346U1	NAPEHARB	FW	V	s5	ME10-315		Ithomiini	Napeogenes_harbona	Napeogenes_harbona	Napeogenes	harbona	banjana-m
+ME15-88	ME15-88_DYSSSP1_FW_V_v1_1811346U1	1811346U1	DYSSSP1	FW	V	s1	ME15-88	ME15-88		ME15_88_DYSSSP1	Dysschema_sp	Dysschema	sp.	confusa
+ME15-88	ME15-88_DYSSSP1_FW_V_v2_1811346U1	1811346U1	DYSSSP1	FW	V	s2	ME15-88	ME15-88		ME15_88_DYSSSP1	Dysschema_sp	Dysschema	sp.	confusa
+ME15-88	ME15-88_DYSSSP1_FW_V_v3_1811346U1	1811346U1	DYSSSP1	FW	V	s3	ME15-88	ME15-88		ME15_88_DYSSSP1	Dysschema_sp	Dysschema	sp.	confusa
+ME15-88	ME15-88_DYSSSP1_FW_V_v4_1811346U1	1811346U1	DYSSSP1	FW	V	s4	ME15-88	ME15-88		ME15_88_DYSSSP1	Dysschema_sp	Dysschema	sp.	confusa
+ME15-88	ME15-88_DYSSSP1_FW_V_v5_1811346U1	1811346U1	DYSSSP1	FW	V	s5	ME15-88	ME15-88		ME15_88_DYSSSP1	Dysschema_sp	Dysschema	sp.	confusa
+ME16-100	ME16-100_GEO2_FW_V_v1_1811346U1	1811346U1	GEO2	FW	V	s1	ME16-100	ME16-100		ME16_100_GEO2	Geo_2		Geo2	agnosia
+ME16-100	ME16-100_GEO2_FW_V_v2_1811346U1	1811346U1	GEO2	FW	V	s2	ME16-100	ME16-100		ME16_100_GEO2	Geo_2		Geo2	agnosia
+ME16-100	ME16-100_GEO2_FW_V_v3_1811346U1	1811346U1	GEO2	FW	V	s3	ME16-100	ME16-100		ME16_100_GEO2	Geo_2		Geo2	agnosia
+ME16-100	ME16-100_GEO2_FW_V_v4_1811346U1	1811346U1	GEO2	FW	V	s4	ME16-100	ME16-100		ME16_100_GEO2	Geo_2		Geo2	agnosia
+ME16-100	ME16-100_GEO2_FW_V_v5_1811346U1	1811346U1	GEO2	FW	V	s5	ME16-100	ME16-100		ME16_100_GEO2	Geo_2		Geo2	agnosia
+ME16-105	ME16-105_GEO20_FW_V_v1_1811346U1	1811346U1	GEO20	FW	V	s1	ME16-105	ME16-105		ME16_105_GEO1	Geo_12		Geo12	eurimedia
+ME16-105	ME16-105_GEO20_FW_V_v2_1811346U1	1811346U1	GEO20	FW	V	s2	ME16-105	ME16-105		ME16_105_GEO1	Geo_12		Geo12	eurimedia
+ME16-105	ME16-105_GEO20_FW_V_v3_1811346U1	1811346U1	GEO20	FW	V	s3	ME16-105	ME16-105		ME16_105_GEO1	Geo_12		Geo12	eurimedia
+ME16-105	ME16-105_GEO20_FW_V_v4_1811346U1	1811346U1	GEO20	FW	V	s4	ME16-105	ME16-105		ME16_105_GEO1	Geo_12		Geo12	eurimedia
+ME16-105	ME16-105_GEO20_FW_V_v5_1811346U1	1811346U1	GEO20	FW	V	s5	ME16-105	ME16-105		ME16_105_GEO1	Geo_12		Geo12	eurimedia
+ME16-15	ME16-15_METASP1_FW_V_v1_1811346U1	1811346U1	METASP1	FW	V	s1	ME16-15	ME16-15		ME16_15_METASP1	Arctiinae_3		Arctiinae3	blue
+ME16-15	ME16-15_METASP1_FW_V_v2_1811346U1	1811346U1	METASP1	FW	V	s2	ME16-15	ME16-15		ME16_15_METASP1	Arctiinae_3		Arctiinae3	blue
+ME16-15	ME16-15_METASP1_FW_V_v3_1811346U1	1811346U1	METASP1	FW	V	s3	ME16-15	ME16-15		ME16_15_METASP1	Arctiinae_3		Arctiinae3	blue
+ME16-15	ME16-15_METASP1_FW_V_v4_1811346U1	1811346U1	METASP1	FW	V	s4	ME16-15	ME16-15		ME16_15_METASP1	Arctiinae_3		Arctiinae3	blue
+ME16-15	ME16-15_METASP1_FW_V_v5_1811346U1	1811346U1	METASP1	FW	V	s5	ME16-15	ME16-15		ME16_15_METASP1	Arctiinae_3		Arctiinae3	blue
+ME16-56	ME16-56_ERESCLIO_FW_V_v1_1811346U1	1811346U1	ERESCLIO	FW	V	s1	ME16-61	ME16-56		ME16_56_ERESCLI	Eresia_clio	Eresia	clio	lerida
+ME16-56	ME16-56_ERESCLIO_FW_V_v2_1811346U1	1811346U1	ERESCLIO	FW	V	s2	ME16-61	ME16-56		ME16_56_ERESCLI	Eresia_clio	Eresia	clio	lerida
+ME16-56	ME16-56_ERESCLIO_FW_V_v3_1811346U1	1811346U1	ERESCLIO	FW	V	s3	ME16-61	ME16-56		ME16_56_ERESCLI	Eresia_clio	Eresia	clio	lerida
+ME16-56	ME16-56_ERESCLIO_FW_V_v4_1811346U1	1811346U1	ERESCLIO	FW	V	s4	ME16-61	ME16-56		ME16_56_ERESCLI	Eresia_clio	Eresia	clio	lerida
+ME16-56	ME16-56_ERESCLIO_FW_V_v5_1811346U1	1811346U1	ERESCLIO	FW	V	s5	ME16-61	ME16-56		ME16_56_ERESCLI	Eresia_clio	Eresia	clio	lerida
+ME16-58	ME16-58_HYPOSTRI_FW_V_v1_1811346U1	1811346U1	HYPOSTRI	FW	V	s1	ME16-58	ME16-58		ME16_58_HYPOSTR	Hypocrita_strigifera	Hypcrita	strigifera	blue
+ME16-58	ME16-58_HYPOSTRI_FW_V_v2_1811346U1	1811346U1	HYPOSTRI	FW	V	s2	ME16-58	ME16-58		ME16_58_HYPOSTR	Hypocrita_strigifera	Hypcrita	strigifera	blue
+ME16-58	ME16-58_HYPOSTRI_FW_V_v3_1811346U1	1811346U1	HYPOSTRI	FW	V	s3	ME16-58	ME16-58		ME16_58_HYPOSTR	Hypocrita_strigifera	Hypcrita	strigifera	blue
+ME16-58	ME16-58_HYPOSTRI_FW_V_v4_1811346U1	1811346U1	HYPOSTRI	FW	V	s4	ME16-58	ME16-58		ME16_58_HYPOSTR	Hypocrita_strigifera	Hypcrita	strigifera	blue
+ME16-58	ME16-58_HYPOSTRI_FW_V_v5_1811346U1	1811346U1	HYPOSTRI	FW	V	s5	ME16-58	ME16-58		ME16_58_HYPOSTR	Hypocrita_strigifera	Hypcrita	strigifera	blue
+ME16-62	ME16-62_ITABPAND_FW_V_v1_1811346U1	1811346U1	ITABPAND	FW	V	s1	TR17-20	ME16-62		ME16_62_ITAPAND	Itaballia_pandosia	Itaballia	pandosia	eurimedia
+ME16-62	ME16-62_ITABPAND_FW_V_v2_1811346U1	1811346U1	ITABPAND	FW	V	s2	TR17-20	ME16-62		ME16_62_ITAPAND	Itaballia_pandosia	Itaballia	pandosia	eurimedia
+ME16-62	ME16-62_ITABPAND_FW_V_v3_1811346U1	1811346U1	ITABPAND	FW	V	s3	TR17-20	ME16-62		ME16_62_ITAPAND	Itaballia_pandosia	Itaballia	pandosia	eurimedia
+ME16-62	ME16-62_ITABPAND_FW_V_v4_1811346U1	1811346U1	ITABPAND	FW	V	s4	TR17-20	ME16-62		ME16_62_ITAPAND	Itaballia_pandosia	Itaballia	pandosia	eurimedia
+ME16-62	ME16-62_ITABPAND_FW_V_v5_1811346U1	1811346U1	ITABPAND	FW	V	s5	TR17-20	ME16-62		ME16_62_ITAPAND	Itaballia_pandosia	Itaballia	pandosia	eurimedia
+ME16-63	ME16-63_NOTOTIRE_FW_V_v1_1811346U1	1811346U1	NOTOTIRE	FW	V	s1	ME16-63	ME16-63		ME16_63_NOTOTIR	Notophyson_tiresias	Notophyson	tiresias	confusa
+ME16-63	ME16-63_NOTOTIRE_FW_V_v2_1811346U1	1811346U1	NOTOTIRE	FW	V	s2	ME16-63	ME16-63		ME16_63_NOTOTIR	Notophyson_tiresias	Notophyson	tiresias	confusa
+ME16-63	ME16-63_NOTOTIRE_FW_V_v3_1811346U1	1811346U1	NOTOTIRE	FW	V	s3	ME16-63	ME16-63		ME16_63_NOTOTIR	Notophyson_tiresias	Notophyson	tiresias	confusa
+ME16-63	ME16-63_NOTOTIRE_FW_V_v4_1811346U1	1811346U1	NOTOTIRE	FW	V	s4	ME16-63	ME16-63		ME16_63_NOTOTIR	Notophyson_tiresias	Notophyson	tiresias	confusa
+ME16-63	ME16-63_NOTOTIRE_FW_V_v5_1811346U1	1811346U1	NOTOTIRE	FW	V	s5	ME16-63	ME16-63		ME16_63_NOTOTIR	Notophyson_tiresias	Notophyson	tiresias	confusa
+ME16-67	ME16-67_HYALXXXX_FW_V_v1_1811346U1	1811346U1	HYALXXXX	FW	V	s1	ME16-67	ME16-67		ME16_67_HYALEGE	Hyalurga_egeon	Hyalurga	egeon	lerida
+ME16-67	ME16-67_HYALXXXX_FW_V_v2_1811346U1	1811346U1	HYALXXXX	FW	V	s2	ME16-67	ME16-67		ME16_67_HYALEGE	Hyalurga_egeon	Hyalurga	egeon	lerida
+ME16-67	ME16-67_HYALXXXX_FW_V_v3_1811346U1	1811346U1	HYALXXXX	FW	V	s3	ME16-67	ME16-67		ME16_67_HYALEGE	Hyalurga_egeon	Hyalurga	egeon	lerida
+ME16-67	ME16-67_HYALXXXX_FW_V_v4_1811346U1	1811346U1	HYALXXXX	FW	V	s4	ME16-67	ME16-67		ME16_67_HYALEGE	Hyalurga_egeon	Hyalurga	egeon	lerida
+ME16-67	ME16-67_HYALXXXX_FW_V_v5_1811346U1	1811346U1	HYALXXXX	FW	V	s5	ME16-67	ME16-67		ME16_67_HYALEGE	Hyalurga_egeon	Hyalurga	egeon	lerida
+ME16-92	ME16-92_AGNOSIA_FW_V_v1_1811346U1	1811346U1	AGNOSIA	FW	V	s1	ME16-92	ME16-92		ME16_92_GEO4	Noctu_1		Noctu1	agnosia
+ME16-92	ME16-92_AGNOSIA_FW_V_v2_1811346U1	1811346U1	AGNOSIA	FW	V	s2	ME16-92	ME16-92		ME16_92_GEO4	Noctu_1		Noctu1	agnosia
+ME16-92	ME16-92_AGNOSIA_FW_V_v3_1811346U1	1811346U1	AGNOSIA	FW	V	s3	ME16-92	ME16-92		ME16_92_GEO4	Noctu_1		Noctu1	agnosia
+ME16-92	ME16-92_AGNOSIA_FW_V_v4_1811346U1	1811346U1	AGNOSIA	FW	V	s4	ME16-92	ME16-92		ME16_92_GEO4	Noctu_1		Noctu1	agnosia
+ME16-92	ME16-92_AGNOSIA_FW_V_v5_1811346U1	1811346U1	AGNOSIA	FW	V	s5	ME16-92	ME16-92		ME16_92_GEO4	Noctu_1		Noctu1	agnosia
+MECN-133	MECN-133_BUTT1_FW_V_v1_1811346U1	1811346U1	BUTT1	FW	V	s1	MECN-133	MECN-133		MECN_133_BUT1	Riodin_1		Riodin1	banjana-m
+MECN-133	MECN-133_BUTT1_FW_V_v2_1811346U1	1811346U1	BUTT1	FW	V	s2	MECN-133	MECN-133		MECN_133_BUT1	Riodin_1		Riodin1	banjana-m
+MECN-133	MECN-133_BUTT1_FW_V_v3_1811346U1	1811346U1	BUTT1	FW	V	s3	MECN-133	MECN-133		MECN_133_BUT1	Riodin_1		Riodin1	banjana-m
+MECN-133	MECN-133_BUTT1_FW_V_v4_1811346U1	1811346U1	BUTT1	FW	V	s4	MECN-133	MECN-133		MECN_133_BUT1	Riodin_1		Riodin1	banjana-m
+MECN-133	MECN-133_BUTT1_FW_V_v5_1811346U1	1811346U1	BUTT1	FW	V	s5	MECN-133	MECN-133		MECN_133_BUT1	Riodin_1		Riodin1	banjana-m
+MECN-140	MECN-140_PIER1_FW_V_v1_1811346U1	1811346U1	PIER1	FW	V	s1	TR17-21	MECN-140		MECN_140_PIER1	Pierid_1		Pier1	eurimedia
+MECN-140	MECN-140_PIER1_FW_V_v2_1811346U1	1811346U1	PIER1	FW	V	s2	TR17-21	MECN-140		MECN_140_PIER1	Pierid_1		Pier1	eurimedia
+MECN-140	MECN-140_PIER1_FW_V_v3_1811346U1	1811346U1	PIER1	FW	V	s3	TR17-21	MECN-140		MECN_140_PIER1	Pierid_1		Pier1	eurimedia
+MECN-140	MECN-140_PIER1_FW_V_v4_1811346U1	1811346U1	PIER1	FW	V	s4	TR17-21	MECN-140		MECN_140_PIER1	Pierid_1		Pier1	eurimedia
+MECN-140	MECN-140_PIER1_FW_V_v5_1811346U1	1811346U1	PIER1	FW	V	s5	TR17-21	MECN-140		MECN_140_PIER1	Pierid_1		Pier1	eurimedia
+TR17-1	TR17-1_GEO11_FW_V_v1_1811346U1	1811346U1	GEO11	FW	V	s1	TR17-1	TR17-1		TR17_1_GEO11	Noctu_2		Noctu2	agnosia
+TR17-1	TR17-1_GEO11_FW_V_v2_1811346U1	1811346U1	GEO11	FW	V	s2	TR17-1	TR17-1		TR17_1_GEO11	Noctu_2		Noctu2	agnosia
+TR17-1	TR17-1_GEO11_FW_V_v3_1811346U1	1811346U1	GEO11	FW	V	s3	TR17-1	TR17-1		TR17_1_GEO11	Noctu_2		Noctu2	agnosia
+TR17-1	TR17-1_GEO11_FW_V_v4_1811346U1	1811346U1	GEO11	FW	V	s4	TR17-1	TR17-1		TR17_1_GEO11	Noctu_2		Noctu2	agnosia
+TR17-1	TR17-1_GEO11_FW_V_v5_1811346U1	1811346U1	GEO11	FW	V	s5	TR17-1	TR17-1		TR17_1_GEO11	Noctu_2		Noctu2	agnosia
+TR17-10	TR17-10_HAGNMORT_FW_V_v1_1811346U1	1811346U1	HAGNMORT	FW	V	s1	TR17-10	TR17-10		Hagnagora_mortipax	Hagnagora_mortipax	Hagnagora	mortipax	agnosia
+TR17-10	TR17-10_HAGNMORT_FW_V_v2_1811346U1	1811346U1	HAGNMORT	FW	V	s2	TR17-10	TR17-10		Hagnagora_mortipax	Hagnagora_mortipax	Hagnagora	mortipax	agnosia
+TR17-10	TR17-10_HAGNMORT_FW_V_v3_1811346U1	1811346U1	HAGNMORT	FW	V	s3	TR17-10	TR17-10		Hagnagora_mortipax	Hagnagora_mortipax	Hagnagora	mortipax	agnosia
+TR17-10	TR17-10_HAGNMORT_FW_V_v4_1811346U1	1811346U1	HAGNMORT	FW	V	s4	TR17-10	TR17-10		Hagnagora_mortipax	Hagnagora_mortipax	Hagnagora	mortipax	agnosia
+TR17-10	TR17-10_HAGNMORT_FW_V_v5_1811346U1	1811346U1	HAGNMORT	FW	V	s5	TR17-10	TR17-10		Hagnagora_mortipax	Hagnagora_mortipax	Hagnagora	mortipax	agnosia
+TR17-11	TR17-11_GEO8_FW_V_v1_1811346U1	1811346U1	GEO8	FW	V	s1	TR17-11	TR17-11		TR17_11_GEO8	Riodin_3		Riodin3	agnosia
+TR17-11	TR17-11_GEO8_FW_V_v2_1811346U1	1811346U1	GEO8	FW	V	s2	TR17-11	TR17-11		TR17_11_GEO8	Riodin_3		Riodin3	agnosia
+TR17-11	TR17-11_GEO8_FW_V_v3_1811346U1	1811346U1	GEO8	FW	V	s3	TR17-11	TR17-11		TR17_11_GEO8	Riodin_3		Riodin3	agnosia
+TR17-11	TR17-11_GEO8_FW_V_v4_1811346U1	1811346U1	GEO8	FW	V	s4	TR17-11	TR17-11		TR17_11_GEO8	Riodin_3		Riodin3	agnosia
+TR17-11	TR17-11_GEO8_FW_V_v5_1811346U1	1811346U1	GEO8	FW	V	s5	TR17-11	TR17-11		TR17_11_GEO8	Riodin_3		Riodin3	agnosia
+TR17-12	TR17-12_GEO7_FW_V_v1_1811346U1	1811346U1	GEO7	FW	V	s1	TR17-12	TR17-12		TR17_12_GEO7	Riodin_2		Riodin2	agnosia
+TR17-12	TR17-12_GEO7_FW_V_v2_1811346U1	1811346U1	GEO7	FW	V	s2	TR17-12	TR17-12		TR17_12_GEO7	Riodin_2		Riodin2	agnosia
+TR17-12	TR17-12_GEO7_FW_V_v3_1811346U1	1811346U1	GEO7	FW	V	s3	TR17-12	TR17-12		TR17_12_GEO7	Riodin_2		Riodin2	agnosia
+TR17-12	TR17-12_GEO7_FW_V_v4_1811346U1	1811346U1	GEO7	FW	V	s4	TR17-12	TR17-12		TR17_12_GEO7	Riodin_2		Riodin2	agnosia
+TR17-12	TR17-12_GEO7_FW_V_v5_1811346U1	1811346U1	GEO7	FW	V	s5	TR17-12	TR17-12		TR17_12_GEO7	Riodin_2		Riodin2	agnosia
+TR17-14	TR17-14_DISMTHEU_FW_V_v1_1811346U1	1811346U1	DISMTHEU	FW	V	s1	TR17-14	TR17-14		TR17_14_DISMTHEU	Dismorphia_theucharila_leucone	Dismorphia	theucharila	lerida
+TR17-14	TR17-14_DISMTHEU_FW_V_v2_1811346U1	1811346U1	DISMTHEU	FW	V	s2	TR17-14	TR17-14		TR17_14_DISMTHEU	Dismorphia_theucharila_leucone	Dismorphia	theucharila	lerida
+TR17-14	TR17-14_DISMTHEU_FW_V_v3_1811346U1	1811346U1	DISMTHEU	FW	V	s3	TR17-14	TR17-14		TR17_14_DISMTHEU	Dismorphia_theucharila_leucone	Dismorphia	theucharila	lerida
+TR17-14	TR17-14_DISMTHEU_FW_V_v4_1811346U1	1811346U1	DISMTHEU	FW	V	s4	TR17-14	TR17-14		TR17_14_DISMTHEU	Dismorphia_theucharila_leucone	Dismorphia	theucharila	lerida
+TR17-14	TR17-14_DISMTHEU_FW_V_v5_1811346U1	1811346U1	DISMTHEU	FW	V	s5	TR17-14	TR17-14		TR17_14_DISMTHEU	Dismorphia_theucharila_leucone	Dismorphia	theucharila	lerida
+TR17-16	TR17-16_GEO9_FW_V_v1_1811346U1	1811346U1	GEO9	FW	V	s1	TR17-16	TR17-16		TR17_16_GEO9	Geo_9		Geo9	agnosia
+TR17-16	TR17-16_GEO9_FW_V_v2_1811346U1	1811346U1	GEO9	FW	V	s2	TR17-16	TR17-16		TR17_16_GEO9	Geo_9		Geo9	agnosia
+TR17-16	TR17-16_GEO9_FW_V_v3_1811346U1	1811346U1	GEO9	FW	V	s3	TR17-16	TR17-16		TR17_16_GEO9	Geo_9		Geo9	agnosia
+TR17-16	TR17-16_GEO9_FW_V_v4_1811346U1	1811346U1	GEO9	FW	V	s4	TR17-16	TR17-16		TR17_16_GEO9	Geo_9		Geo9	agnosia
+TR17-16	TR17-16_GEO9_FW_V_v5_1811346U1	1811346U1	GEO9	FW	V	s5	TR17-16	TR17-16		TR17_16_GEO9	Geo_9		Geo9	agnosia
+TR17-17	TR17-17_HYALXXXX_FW_V_v1_1811346U1	1811346U1	HYALXXXX	FW	V	s1	TR17-17	TR17-17		TR17_17_HYALGRA	Hyalurga_grandis	Hyalurga	grandis	agnosia
+TR17-17	TR17-17_HYALXXXX_FW_V_v2_1811346U1	1811346U1	HYALXXXX	FW	V	s2	TR17-17	TR17-17		TR17_17_HYALGRA	Hyalurga_grandis	Hyalurga	grandis	agnosia
+TR17-17	TR17-17_HYALXXXX_FW_V_v3_1811346U1	1811346U1	HYALXXXX	FW	V	s3	TR17-17	TR17-17		TR17_17_HYALGRA	Hyalurga_grandis	Hyalurga	grandis	agnosia
+TR17-17	TR17-17_HYALXXXX_FW_V_v4_1811346U1	1811346U1	HYALXXXX	FW	V	s4	TR17-17	TR17-17		TR17_17_HYALGRA	Hyalurga_grandis	Hyalurga	grandis	agnosia
+TR17-17	TR17-17_HYALXXXX_FW_V_v5_1811346U1	1811346U1	HYALXXXX	FW	V	s5	TR17-17	TR17-17		TR17_17_HYALGRA	Hyalurga_grandis	Hyalurga	grandis	agnosia
+TR17-5	TR17-5_STALEUTE_FW_V_v1_1811346U1	1811346U1	STALEUTE	FW	V	s1	TR17-5	TR17-5		TR17_5_STALEUT	Stalachtis_euterpe	Stalachtis	euterpe	aureliana
+TR17-5	TR17-5_STALEUTE_FW_V_v2_1811346U1	1811346U1	STALEUTE	FW	V	s2	TR17-5	TR17-5		TR17_5_STALEUT	Stalachtis_euterpe	Stalachtis	euterpe	aureliana
+TR17-5	TR17-5_STALEUTE_FW_V_v3_1811346U1	1811346U1	STALEUTE	FW	V	s3	TR17-5	TR17-5		TR17_5_STALEUT	Stalachtis_euterpe	Stalachtis	euterpe	aureliana
+TR17-5	TR17-5_STALEUTE_FW_V_v4_1811346U1	1811346U1	STALEUTE	FW	V	s4	TR17-5	TR17-5		TR17_5_STALEUT	Stalachtis_euterpe	Stalachtis	euterpe	aureliana
+TR17-5	TR17-5_STALEUTE_FW_V_v5_1811346U1	1811346U1	STALEUTE	FW	V	s5	TR17-5	TR17-5		TR17_5_STALEUT	Stalachtis_euterpe	Stalachtis	euterpe	aureliana
+TR17-6	TR17-6_DISMTHEU_FW_V_v1_1811346U1	1811346U1	DISMTHEU	FW	V	s1	TR17-22	TR17-6		TR17_6_DISMTHEU	Dismorphia_theucharila_orange-tip	Dismorphia	theucharila	aureliana
+TR17-6	TR17-6_DISMTHEU_FW_V_v2_1811346U1	1811346U1	DISMTHEU	FW	V	s2	TR17-22	TR17-6		TR17_6_DISMTHEU	Dismorphia_theucharila_orange-tip	Dismorphia	theucharila	aureliana
+TR17-6	TR17-6_DISMTHEU_FW_V_v3_1811346U1	1811346U1	DISMTHEU	FW	V	s3	TR17-22	TR17-6		TR17_6_DISMTHEU	Dismorphia_theucharila_orange-tip	Dismorphia	theucharila	aureliana
+TR17-6	TR17-6_DISMTHEU_FW_V_v4_1811346U1	1811346U1	DISMTHEU	FW	V	s4	TR17-22	TR17-6		TR17_6_DISMTHEU	Dismorphia_theucharila_orange-tip	Dismorphia	theucharila	aureliana
+TR17-6	TR17-6_DISMTHEU_FW_V_v5_1811346U1	1811346U1	DISMTHEU	FW	V	s5	TR17-22	TR17-6		TR17_6_DISMTHEU	Dismorphia_theucharila_orange-tip	Dismorphia	theucharila	aureliana
+TR17-7	TR17-7_MOTH1_FW_V_v1_1811346U1	1811346U1	MOTH1	FW	V	s1	TR17-7	TR17-7		TR17_7_MOTH1	Arctiinae_1		Arctiinae1	eurimedia
+TR17-7	TR17-7_MOTH1_FW_V_v2_1811346U1	1811346U1	MOTH1	FW	V	s2	TR17-7	TR17-7		TR17_7_MOTH1	Arctiinae_1		Arctiinae1	eurimedia
+TR17-7	TR17-7_MOTH1_FW_V_v3_1811346U1	1811346U1	MOTH1	FW	V	s3	TR17-7	TR17-7		TR17_7_MOTH1	Arctiinae_1		Arctiinae1	eurimedia
+TR17-7	TR17-7_MOTH1_FW_V_v4_1811346U1	1811346U1	MOTH1	FW	V	s4	TR17-7	TR17-7		TR17_7_MOTH1	Arctiinae_1		Arctiinae1	eurimedia
+TR17-7	TR17-7_MOTH1_FW_V_v5_1811346U1	1811346U1	MOTH1	FW	V	s5	TR17-7	TR17-7		TR17_7_MOTH1	Arctiinae_1		Arctiinae1	eurimedia
