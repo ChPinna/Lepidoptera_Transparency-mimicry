@@ -14,19 +14,19 @@
 library(pavo)
 # Function to get colour distances calculated by the coldist function from pavo package
 getColDist<-function(datatable, vision.mdl=c("VS", "UVS", "HUM"), illum=c("ws", "fs", "el", "lg"), conformation=c("transmission", "reflexion"), qcatch=c("Qi", "fi"), relative=c(FALSE, TRUE), noise = c("neural", "quantum"), subset = c("bgid", "fond_feuille"), achro){
-  vs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/VS_shearwater.txt', header = T)
+  vs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/VS_shearwater.txt?token=ATYZOQL3IBUZ7UBKTSLQ2ATAQLS4Q', header = T)
   colnames(vs) = c('wl','u','s','m','l','q')
-  uvs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/UVS_bluetit.txt', header = T)
+  uvs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/UVS_bluetit.txt?token=ATYZOQLOCIHOIYFXUTLMDTDAQLTAG', header = T)
   colnames(uvs) = c('wl','u','s','m','l','q')
-  illfs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxFS.txt', header = T)
+  illfs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxFS.txt?token=ATYZOQKMIVMEN766GIFZLOTAQLTC4', header = T)
   ill_fs = illfs[,2]
-  illel = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxEL.txt', header = T)
+  illel = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxEL.txt?token=ATYZOQM2NWVJVUD3XMLL3PTAQLTGE', header = T)
   ill_el = illel[,2]
-  illws = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxWS.txt', header = T)
+  illws = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxWS.txt?token=ATYZOQKHWROD26OP5TBI4WTAQLTIY', header = T)
   ill_ws = illws[,2]
-  illlg = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxLG.txt', header = T)
+  illlg = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxLG.txt?token=ATYZOQPPCUO2EM6AZVSLLJ3AQLTKY', header = T)
   ill_lg = illlg[,2]
-  fondfeuil = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/backgrounds/FondCGfeuilles.txt', header = T)
+  fondfeuil = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/FondCGfeuilles.txt?token=ATYZOQN4SEUWAT5FNOVLBNDAQLTNA', header = T)
   fond_feuille = fondfeuil[,2]
   
   if (vision.mdl=="UVS") {
@@ -287,7 +287,7 @@ spec.lo<-function(data, colnumber, span){ ## colnumber is the column number of t
 
 ## Raw Data
 # specall.raw = dataframe with the raw spectra obtained with the getspec function from 'pavo' package
-specall.raw <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecAll-Raw.txt", header = TRUE, sep = "\t", dec = '.', check.names = FALSE)
+specall.raw <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecAll-Raw.txt?token=ATYZOQO4OKNFUUT3JXJFPG3AQLTTA", header = TRUE, sep = "\t", dec = '.', check.names = FALSE)
 ## We smoothed the raw spectra, with the custom-made function "spec.lo"
 # We fix negative value to zero
 specall.cln <- procspec(specall.raw, fixneg = "zero")
@@ -299,11 +299,11 @@ specall.lo.surlo<-spec.lo(data=specall.TOLO, colnumber = 1, span=0.05)
 
 ## Smoothed data and info about data and specimens
 # specall = dataframe with the smoothed spectra (value of transmission for each wavelenght, for each spot measured)
-specall <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecAll.txt", sep = "\t", dec = ".", check.names = FALSE)
+specall <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecAll.txt?token=ATYZOQOS37RE67MK3J3P3OTAQLTVM", sep = "\t", dec = ".", check.names = FALSE)
 # specinfos = dataframe with the informations about spot measured and specimen
-specinfos <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos.txt", header = TRUE, sep ="\t", dec = ".")
+specinfos <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos.txt?token=ATYZOQM2E2T3OGN5B2BTRGLAQLTYG", header = TRUE, sep ="\t", dec = ".")
 # phylogenetic tree of the species in the study
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 
 ## Transformed Data
 # We create a data frame for each spot (s1 to s5)
@@ -428,11 +428,11 @@ library(caper)
 library(devtools)
 source_url("https://raw.githubusercontent.com/mrborges23/delta_statistic/master/code.R")
 # Datatable with all the structural features and mean transmittance
-DataTot <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt", header = TRUE, sep = "\t", dec = ".")
+DataTot <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt?token=ATYZOQPCRLPG6WQHEUNAHYLAQLT5O", header = TRUE, sep = "\t", dec = ".")
 # We create a variable ScaleType which is the interaction between ScaleForm and ScaleInsertion
 DataTot$ScaleType <- interaction(DataTot$ScaleForm, DataTot$ScaleInsertion)
 DataTot$ScaleType <- droplevels(DataTot$ScaleType)
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 
 # -------------------------------------------------
 # Analyses - Calculation of phylogenetic signal 
@@ -519,7 +519,7 @@ ScaleColor.D <- phylo.d(data.comp, binvar = ScaleColour, permut = 1000)
 # Data, libraries and home-made function needed 
 # -------------------------------------------------
 # Datatable with all the structural features and mean transmittance
-DataTot <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt", header = TRUE, sep = "\t", dec = ".")
+DataTot <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt?token=ATYZOQPCRLPG6WQHEUNAHYLAQLT5O", header = TRUE, sep = "\t", dec = ".")
 # We create the scale type variable which is the interaction between scale form and scale insertion
 DataTot$ScaleType <- interaction(DataTot$ScaleForm, DataTot$ScaleInsertion)
 DataTot$ScaleType <- droplevels(DataTot$ScaleType)
@@ -695,7 +695,7 @@ getConvColdist <- function(dataframe, df.class = c("coldist", "df"), data.infos,
   return(res)
 }
 # phylogenetic tree with the species from the study
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 
 # -------------------------------------------------
 # Analyses - Test for convergence in structures
@@ -748,8 +748,8 @@ for (data in c("ScaleType.phyConv", "NanoType.phyConv", "StructTot.phyConv")){
 # ----------------------------
 library(caper)
 library(MuMIn)
-DataTot <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt", header = TRUE, sep = "\t", dec = ".")
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+DataTot <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt?token=ATYZOQPCRLPG6WQHEUNAHYLAQLT5O", header = TRUE, sep = "\t", dec = ".")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 # We create the ScaleType variable, which is the interaction between scale form and scale insertion
 DataTot$ScaleType <- interaction(DataTot$ScaleForm, DataTot$ScaleInsertion)
 DataTot$ScaleType <- droplevels(DataTot$ScaleType)
@@ -828,19 +828,19 @@ library(pavo)
 library(rptR)
 # Function to get colour distances calculated by the coldist function from pavo package
 getColDist<-function(datatable, vision.mdl=c("VS", "UVS", "HUM"), illum=c("ws", "fs", "el", "lg"), conformation=c("transmission", "reflexion"), qcatch=c("Qi", "fi"), relative=c(FALSE, TRUE), noise = c("neural", "quantum"), subset = c("bgid", "fond_feuille"), achro, lim=c(300, 700)){
-  vs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/VS_shearwater.txt', header = T)
+  vs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/VS_shearwater.txt?token=ATYZOQL3IBUZ7UBKTSLQ2ATAQLS4Q', header = T)
   colnames(vs) = c('wl','u','s','m','l','q')
-  uvs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/UVS_bluetit.txt', header = T)
+  uvs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/UVS_bluetit.txt?token=ATYZOQLOCIHOIYFXUTLMDTDAQLTAG', header = T)
   colnames(uvs) = c('wl','u','s','m','l','q')
-  illfs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxFS.txt', header = T)
+  illfs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxFS.txt?token=ATYZOQKMIVMEN766GIFZLOTAQLTC4', header = T)
   ill_fs = illfs[which(illfs[,1] >= lim[1] & illfs[,1] <= lim[2]),2]
-  illel = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxEL.txt', header = T)
+  illel = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxEL.txt?token=ATYZOQM2NWVJVUD3XMLL3PTAQLTGE', header = T)
   ill_el = illel[which(illel[,1] >= lim[1] & illel[,1] <= lim[2]),2]
-  illws = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxWS.txt', header = T)
+  illws = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxWS.txt?token=ATYZOQKHWROD26OP5TBI4WTAQLTIY', header = T)
   ill_ws = illws[which(illws[,1] >= lim[1] & illws[,1] <= lim[2]),2]
-  illlg = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxLG.txt', header = T)
+  illlg = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxLG.txt?token=ATYZOQPPCUO2EM6AZVSLLJ3AQLTKY', header = T)
   ill_lg = illlg[which(illlg[,1] >= lim[1] & illlg[,1] <= lim[2]),2]
-  fondfeuil = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/backgrounds/FondCGfeuilles.txt', header = T)
+  fondfeuil = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/FondCGfeuilles.txt?token=ATYZOQN4SEUWAT5FNOVLBNDAQLTNA', header = T)
   fond_feuille = fondfeuil[which(fondfeuil[,1] >= lim[1] & fondfeuil[,1] <= lim[2]),2]
   
   if (vision.mdl=="UVS") {
@@ -1100,13 +1100,13 @@ spec.lo<-function(data, colnumber, span){ ## colnumber is the column number of t
 }
 
 ## Raw data
-spec4Repet.raw <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_Spec-4Repet-Raw.txt", header = TRUE, sep = "\t", dec = ".", check.names = FALSE)
+spec4Repet.raw <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_Spec-4Repet-Raw.txt?token=ATYZOQK4D65WLBQGOHY2TS3AQLUDO", header = TRUE, sep = "\t", dec = ".", check.names = FALSE)
 # We smooth data, transform it in a rspect object and correct for negative value
 spec4Repet <- spec.lo(data = spec4Repet.raw, colnumber = 1, span = 0.02)
 spec4Repet <- as.rspec(spec4Repet)
 spec4Repet <- procspec(rspecdata = spec4Repet, fixneg = "zero")
 # Datatable with information about spectra and specimens
-infos4Repet <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos-4Repet.txt", header = TRUE, sep = "\t", check.names = FALSE)
+infos4Repet <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos-4Repet.txt?token=ATYZOQO3HZXWF36X2H62WB3AQLUFC", header = TRUE, sep = "\t", check.names = FALSE)
 ## We extract the interesting shape descriptors (brightness B2 and chroma S8) from smoothed spectra
 shape4Repet <- summary(spec4Repet, subset = c("B2", "S8"))
 shape4Repet$SpectrumID <- row.names(shape4Repet)
@@ -1293,10 +1293,10 @@ median(S8.tech.CV$RSD, na.rm= TRUE)
 # -------------------------------------------------
 library(rptR)
 ## Data
-Density<-read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/var-intra_densite_final.txt", sep="\t", header=T)
-Scales<-read.delim("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/variation-intra_longueur-largeur.txt", sep="\t", header=T)
-ScalesBi<-read.delim("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/var-intra_poils_bifides.txt", sep="\t", header=T)
-ScalesMono<-read.delim("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/var-intra_poils-monofides.txt", sep="\t", header=T)
+Density<-read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/var-intra_densite_final.txt?token=ATYZOQNR6YLZ7XSRL3E357LAQLUIA", sep="\t", header=T)
+Scales<-read.delim("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/variation-intra_longueur-largeur.txt?token=ATYZOQLUOBD2DA2PIZ2SL3TAQLUKK", sep="\t", header=T)
+ScalesBi<-read.delim("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/var-intra_poils_bifides.txt?token=ATYZOQIINMR65KZCBFYH5Q3AQLUL2", sep="\t", header=T)
+ScalesMono<-read.delim("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/var-intra_poils-monofides.txt?token=ATYZOQKFGPFQD5WZ4CYLC33AQLUNW", sep="\t", header=T)
 
 # --------------------------------------------------------
 # Biological repeatability - intraspecific repeatability
@@ -1560,19 +1560,19 @@ library(nlme)
 library(car)
 library(caper)
 getColSpace<-function(datatable, vision.mdl=c("VS", "UVS", "HUM"), illum=c("ws", "fs", "el", "lg"), conformation=c("transmission", "reflexion"), qcatch=c("Qi", "fi"), relative=c(FALSE, TRUE), colorspace){
-  vs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/VS_shearwater.txt', header = T)
+  vs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/VS_shearwater.txt?token=ATYZOQL3IBUZ7UBKTSLQ2ATAQLS4Q', header = T)
   colnames(vs) = c('wl','u','s','m','l','q')
-  uvs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/sensitivity-curves/UVS_bluetit.txt', header = T)
+  uvs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/UVS_bluetit.txt?token=ATYZOQLOCIHOIYFXUTLMDTDAQLTAG', header = T)
   colnames(uvs) = c('wl','u','s','m','l','q')
-  illfs = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxFS.txt', header = T)
+  illfs = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxFS.txt?token=ATYZOQKMIVMEN766GIFZLOTAQLTC4', header = T)
   ill_fs = illfs[,2]
-  illel = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxEL.txt', header = T)
+  illel = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxEL.txt?token=ATYZOQM2NWVJVUD3XMLL3PTAQLTGE', header = T)
   ill_el = illel[,2]
-  illws = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxWS.txt', header = T)
+  illws = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxWS.txt?token=ATYZOQKHWROD26OP5TBI4WTAQLTIY', header = T)
   ill_ws = illws[,2]
-  illlg = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/light-environments/LuxLG.txt', header = T)
+  illlg = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/LuxLG.txt?token=ATYZOQPPCUO2EM6AZVSLLJ3AQLTKY', header = T)
   ill_lg = illlg[,2]
-  fondfeuil = read.delim('C:/Users/Charline/Documents/These_Transparency-mimicry/Data_raw/Vision_modeling/backgrounds/FondCGfeuilles.txt', header = T)
+  fondfeuil = read.delim('https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/FondCGfeuilles.txt?token=ATYZOQN4SEUWAT5FNOVLBNDAQLTNA', header = T)
   fond_feuille = fondfeuil[,2]
   
   if (vision.mdl=="UVS") {
@@ -1636,12 +1636,12 @@ getColSpace<-function(datatable, vision.mdl=c("VS", "UVS", "HUM"), illum=c("ws",
   return(data.colspace)  
 }
 # phylogenetic tree of the species from the study
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 # Dataframe with all spectra
-specall <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecAll.txt", sep = "\t", dec = ".", check.names = FALSE)
+specall <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecAll.txt?token=ATYZOQOS37RE67MK3J3P3OTAQLTVM", sep = "\t", dec = ".", check.names = FALSE)
 specall <- as.rspec(specall)
 # Information about spectra and specimens
-specinfos <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos.txt", header = TRUE, sep ="\t", dec = ".")
+specinfos <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_SpecInfos.txt?token=ATYZOQM2E2T3OGN5B2BTRGLAQLTYG", header = TRUE, sep ="\t", dec = ".")
 # Exploitation of raw data
 # We extract mean transmittance over 300-700nm
 specall.shape <- summary(specall, subset = "B2")
@@ -1704,9 +1704,9 @@ summary(linkB2xyzL.pgls)
 # -------------------------------------------------
 library(phytools)
 # Datatable with all the structural features and mean transmittance
-DataTot <- read.delim(file = "C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/article_Mimicry-M2Charline/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt", header = TRUE, sep = "\t", dec = ".")
+DataTot <- read.delim(file = "https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/Lepidoptera_Transparenct-Mimicry_Structure-Transmission-Infos-all.txt?token=ATYZOQPCRLPG6WQHEUNAHYLAQLT5O", header = TRUE, sep = "\t", dec = ".")
 # phylogenetic tree of the species from the study
-tree <- read.nexus("C:/Users/Charline/Documents/These_Transparency-mimicry/Article/articleM2_mimetisme-transparence/Documents_pour-article/arbreM2_mai2020_simple.trees")
+tree <- read.nexus("https://raw.githubusercontent.com/ChPinna/Lepidoptera_Transparency-mimicry/main/Data/arbreM2_mai2020_simple.trees?token=ATYZOQM2PSXNDHP37IOV6NLAQLT2M")
 
 # -------------------------------------------------
 # Analyses - phylogenetic anova
